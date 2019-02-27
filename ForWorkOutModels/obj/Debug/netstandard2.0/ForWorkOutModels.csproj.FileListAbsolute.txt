@@ -1,0 +1,9 @@
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\bin\Debug\netstandard2.0\ForWorkOutModels.deps.json
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\bin\Debug\netstandard2.0\ForWorkOutModels.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\bin\Debug\netstandard2.0\ForWorkOutModels.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.csprojAssemblyReference.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.csproj.CoreCompileInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.AssemblyInfoInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.AssemblyInfo.cs
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutModels\obj\Debug\netstandard2.0\ForWorkOutModels.pdb
