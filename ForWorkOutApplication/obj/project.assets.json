@@ -12207,11 +12207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutApplication\\ForWorkOutApplication.csproj",
+      "projectUniqueName": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutApplication\\ForWorkOutApplication.csproj",
       "projectName": "ForWorkOutApplication",
-      "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutApplication\\ForWorkOutApplication.csproj",
+      "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutApplication\\ForWorkOutApplication.csproj",
       "packagesPath": "C:\\Users\\Vittor Hugo Meneghin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutApplication\\obj\\",
+      "outputPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12230,11 +12230,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutModels\\ForWorkOutModels.csproj": {
-              "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutModels\\ForWorkOutModels.csproj"
+            "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutModels\\ForWorkOutModels.csproj": {
+              "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutModels\\ForWorkOutModels.csproj"
             },
-            "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutRepositories\\ForWorkOutRepositories.csproj": {
-              "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutRepositories\\ForWorkOutRepositories.csproj"
+            "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutRepositories\\ForWorkOutRepositories.csproj": {
+              "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutRepositories\\ForWorkOutRepositories.csproj"
             }
           }
         }

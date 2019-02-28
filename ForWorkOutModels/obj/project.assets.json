@@ -2911,11 +2911,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutModels\\ForWorkOutModels.csproj",
+      "projectUniqueName": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutModels\\ForWorkOutModels.csproj",
       "projectName": "ForWorkOutModels",
-      "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutModels\\ForWorkOutModels.csproj",
+      "projectPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutModels\\ForWorkOutModels.csproj",
       "packagesPath": "C:\\Users\\Vittor Hugo Meneghin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\ForWorkOut\\ForWorkOutModels\\obj\\",
+      "outputPath": "C:\\Users\\Vittor Hugo Meneghin\\Desktop\\FirstApi\\ForWorkOutModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

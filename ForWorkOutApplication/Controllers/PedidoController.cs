@@ -7,6 +7,7 @@ using ForWorkOutRepositories.EntitiesRepositories;
 using ForWorkOutModels.Entities;
 using ForWorkOutModels.Contexts;
 using ForWorkOutApplication.ModelsHelper;
+using Newtonsoft.Json;
 
 namespace ForWorkOutApplication.Controllers
 {
@@ -36,16 +37,18 @@ namespace ForWorkOutApplication.Controllers
         }
 
         
-        [HttpGet("{id}", Name = "GetPedido")]
-        public ActionResult<string> Get(long id)
+        [HttpGet("{id}")]
+        public ActionResult<object> Get(long id)
         {
             try
             {
                 Pedido model = null;
 
-                using (var repositorio = new PedidoRepository())
+                using (var repositorio = new ForWorkOutContext())
                 {
-                    model = repositorio.FindById(id);
+                    model = repositorio.Set<Pedido>().Find(id);
+
+                    model.Produtos = repositorio.Set<Produtos>().Where(p => p.IdPedido == model.Id).ToList();
                 }
 
                 if (model == null)
@@ -61,36 +64,35 @@ namespace ForWorkOutApplication.Controllers
 
         // POST api/values
         [HttpPost]
-        public IActionResult Post([FromBody] PedidoProduto model)
+        public IActionResult Post([FromBody] Pedido model)
         {
             try
             {
                 if (model == null || model.Produtos == null || model.Produtos.Count() < 0)
                     return BadRequest();
 
-                var pedido = new Pedido 
-                {
-                    Data = DateTime.Now,
-                    Status = model.Status                    
-                };
+                model.Data = DateTime.Now;            
 
                 using (var repositorio = new ForWorkOutContext())
-                {
-                     
-                    
+                {                                     
+                    repositorio.Set<Pedido>().Add(model);                 
+                    repositorio.SaveChanges();
 
-                    repositorio.Set<Pedido>().Add(pedido); 
-                    
-
+                    foreach (var item in model.Produtos)
+                    { 
+                        item.IdPedido = model.Id;
+                        model.Valor += item.PrecoProduto;
+                        repositorio.Set<Produtos>().Add(item);
+                    }
 
                     repositorio.SaveChanges();
                 }
 
-                return CreatedAtRoute("GetPedido", new { id = pedido.Id });
+                return Ok(model);
             }
             catch (Exception ex)
             {
-                return BadRequest(ex.Message);
+                return BadRequest(ex.InnerException.Message);
             }
         }
 

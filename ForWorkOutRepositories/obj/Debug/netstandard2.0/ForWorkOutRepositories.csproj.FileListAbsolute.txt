@@ -10,3 +10,15 @@ C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutRepositories\obj\Debu
 C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.csproj.CopyComplete
 C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.dll
 C:\Users\Vittor Hugo Meneghin\Desktop\ForWorkOut\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\bin\Debug\netstandard2.0\ForWorkOutRepositories.deps.json
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\bin\Debug\netstandard2.0\ForWorkOutRepositories.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\bin\Debug\netstandard2.0\ForWorkOutRepositories.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\bin\Debug\netstandard2.0\ForWorkOutModels.dll
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\bin\Debug\netstandard2.0\ForWorkOutModels.pdb
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.csprojAssemblyReference.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.csproj.CoreCompileInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.AssemblyInfoInputs.cache
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.AssemblyInfo.cs
+C:\Users\Vittor Hugo Meneghin\Desktop\FirstApi\ForWorkOutRepositories\obj\Debug\netstandard2.0\ForWorkOutRepositories.csproj.CopyComplete
