@@ -5,7 +5,7 @@
 
 - [x] Models
 - [x] Padrão Repositório
-- [] Teste
-- [] Autenticação
-- [] Documentação
+- [ ] Teste
+- [ ] Autenticação
+- [ ] Documentação
 
