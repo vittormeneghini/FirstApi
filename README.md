@@ -12,5 +12,5 @@
 - [ ] Documentação
 
 
-*Motivo da publicação: * Publicação realizada por motivos de **estudo** e repassagem de **aprendizado**.
+*Motivo da publicação*: Publicação realizada por motivos de **estudo** e repassagem de **aprendizado**.
 
